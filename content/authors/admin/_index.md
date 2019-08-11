@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jordan M. Foley
+name: **Jordan M. Foley**
 
 # Username (this should match the folder name)
 authors:
