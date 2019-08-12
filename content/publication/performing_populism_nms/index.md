@@ -1,5 +1,5 @@
 ---
-title: "Performing Populism: Trsump's Transgressive Debate Style and the Dynamics of Twitter Response"
+title: "Performing Populism: Trump's Transgressive Debate Style and the Dynamics of Twitter Response"
 authors:
 - Erik P. Bucy
 - admin
