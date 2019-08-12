@@ -50,7 +50,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 
-  focal_point: "Center"
+  focal_point: "Top"
   preview_only: false
 
 # Associated Projects (optional).
