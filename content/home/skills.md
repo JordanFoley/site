@@ -2,8 +2,8 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight =   60 # Order that this section will appear.
 
 title = "Skills"
 subtitle = ""
@@ -18,18 +18,25 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Proficient in R, including %"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop-code"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Computational Methods"
+  description = "100%" 
   
 [[feature]]
-  icon = "camera-retro"
+  icon = ""
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Time Series Analysis"
+  description = "Proficient in time series methodology, including univariate and multivariate ARIMA modeling, forecasting, vector auto-regression (VAR), Granger causality, cointegration models, "  
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "Computational Methods"
+  description = "100%" 
+  
 
 +++

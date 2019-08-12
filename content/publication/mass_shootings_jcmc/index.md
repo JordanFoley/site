@@ -49,7 +49,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://jordanfoley.net/static/img/header/mass_shooting_jcmc.png)'
+  caption: 
   focal_point: ""
   preview_only: false
 

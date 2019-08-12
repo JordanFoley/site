@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -19,14 +19,14 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Cross Examination Debate Association"
+  organization_url = "http://www.cedadebate.org/"
+  title = "Matt Grindy Outstanding Graduate Student of the Year Award"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2017-4-01"
   date_end = ""
-  description = ""
+  description = "This award recognizes both the pedagogical and competitive contributions to the growth and development of policy debate by graduate student coaches, who are balancing their obligations to their school work and that of their programs."
 
 [[item]]
   organization = "edX"
