@@ -24,8 +24,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Computer-Mediated Communication*
-publication_short: In *JCMC*
+publication: In the *Journal of Computer-Mediated Communication*
+publication_short: In the *Journal of Computer-Mediated Communication*
 
 abstract: This study focuses on the outpouring of sympathy in response to mass shootings and the contestation over gun policy on Twitter from 2012 to 2014 and relates these discourses to features of mass shooting events. We use two approaches to Twitter text analysis—hashtag grouping and supervised machine learning (ML)—to triangulate an understanding of intensity and duration of “thoughts and prayers,” gun control, and gun rights discourses. We conduct parallel time series analyses to predict their temporal patterns in response to features of mass shootings. Our analyses reveal that while the total number of victims and child deaths consistently predicted public grieving and calls for gun control, public shootings consistently predicted the defense of gun rights. Further, the race of victims and perpetrators affected the levels of public mourning and policy debates, with the loss of black lives and the violence inflicted by white shooters generating less sympathy and policy discourses.
 
