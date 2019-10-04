@@ -3,7 +3,7 @@ title: "Press Credentials and Hybrid Boundary Zones: The Case of WorldNetDaily a
 authors:
 - admin
 
-date: "2019-05-15T00:00:00Z"
+date: "2019-10-1T00:00:00Z"
 doi: "10.1080/17512786.2019.1671214"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ url_pdf: files/papers/press_credentials_wnd/press_credentials_wnd_jp.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 
-  focal_point: ""
+  focal_point: "Top"
   preview_only: false
 
 # Associated Projects (optional).
