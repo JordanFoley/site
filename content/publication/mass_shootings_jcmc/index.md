@@ -43,7 +43,7 @@ links:
 - name: Background
   url: https://twitter.com/FoleyJ0/status/1130943027969703942?s=20
   
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: files/papers/mass_shootings/whose_lives_matter_mass_shooting_final.pdf
 
 
 # Featured image
