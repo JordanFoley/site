@@ -51,17 +51,5 @@ Responsible for leading discussion sections in courses ranging from 15 to 100+ s
   description = """
 Responsible for hourly project work, including sub-group coordination, dataset construction, management and maintenance as well as writing code for descriptive analyses, statistical modelling, and training machine learning algorithms to classify news coverage and Twitter content. Projects focus on multi-layered time-series modeling of media ecologies surrounding contentious political issues and events like presidential debates, political campaigns, and mass shootings.
   """
-  
-  
-[[experience]]
-  title = "Teaching Assistant"
-  company = "School of Journalism and Mass Communication, University of Wisconsin-Madison"
-  company_url = "https://mcrc.journalism.wisc.edu/"
-  location = "Madison, WI"
-  date_start = "2016-09-01"
-  date_end = "2018-01-01"
-  description = """
-Responsible for leading discussion sections in courses ranging from 15 to 100+ students in introductory journalism practice and research methods courses and upper-level communication theory and media law courses. Primarily responsible for grading, classroom supervision, final project oversight, course administration, and one-on-one student coaching. 
-  """
 
 +++
