@@ -30,7 +30,7 @@ featured: true
 
 links:
   
-url_pdf: /files/papers/press_credentials_wnd/press_credentials_wnd_jp.pdf
+url_pdf: files/papers/press_credentials_wnd/press_credentials_wnd_jp.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

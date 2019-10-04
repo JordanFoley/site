@@ -36,7 +36,7 @@ featured: true
 
 links:
 
-url_pdf: http://jordanfoley.net/static/files/papers/presidential_debates/performing_populism.pdf
+url_pdf: http://jordanfoley.net/files/papers/presidential_debates/performing_populism.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
