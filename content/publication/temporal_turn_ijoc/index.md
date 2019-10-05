@@ -37,7 +37,7 @@ featured: true
 links:
 
   
-url_pdf: http://jordanfoley.net/static/files/papers/time_series/temporal_turn.pdf
+url_pdf: http://jordanfoley.net/files/papers/time_series/temporal_turn.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
