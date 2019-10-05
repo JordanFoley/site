@@ -36,7 +36,7 @@ url_pdf: files/papers/press_credentials_wnd/press_credentials_wnd_jp.pdf
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 
-  focal_point: "Top"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
